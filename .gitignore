@@ -1,2 +1,11 @@
 *.class
 *.log
+
+# intellij
+.idea
+.bsp
+
+# remove builds
+target/
+
+main/resources/data/ARQMath
